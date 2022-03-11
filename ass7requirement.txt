@@ -1,0 +1,40 @@
+* There are 6 bugs in the projects
+*At least need 5 bugs to solve for full marks
+
+******main bugs are : 50 marks
+*"heart button" bellow the image in the file dont work must be solved [done : there was a "plus" io "push" in line 19]
+
+*pic at the left of "phero" is showing a regular pic but it should be the users profile pic like the bellow react count sections [done : at line no 67 for avatar there were defined "image" io "userImage"]
+
+*if discription is higher than 30 letter its showing "text" but need to show 3-dots (...) and "read more" at the end Else show full discription not "text" [done : at line no 30 there was an error of ternary opt so i converte the string text into variable text]
+
+*in the comment there is two "undefined" but it must not be undefined rather show some information as required [done : at line 125 and 127 there were two eror of tracking array of object]
+
+*reported pic must be removed from main section but need to show in the "hidden eyed section" only the reported pics but here its showing all the pics (just like wishlist) [done : on line no 156 they applied forEach loop on variable posts io reportedPosts]
+
+*loved pic increases after each click like on upper "heart button" wish lists [in the line 146 function displayLikedPosts needed the field to be empty so i did it on line 147]
+
+
+
+******Extra
+*report posts also increases after each click like on upper "heart button" wish lists [in the line 155 function displayReportedPosts liked posts needed the field to be empty so i did it on line 156]
+
+*clicking heart buttons causes auto fetching [in line 20 i comment out the calling function showPosts]
+
+******optional tasks : 10 marks
+*minimum 6 push
+
+(((((((solve any two inthe html before footer sections all answer must be "minmum 5 line but max 10 line","multiple paragraph could be used"))))))
+q-1: how does javaScript work?
+q-2: what does javaScript event loop do?
+q-3: difference between session storage vs local storage?
+
+
+
+
+
+
+
+
+
+
